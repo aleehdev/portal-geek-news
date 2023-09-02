@@ -1,0 +1,75 @@
+h1{
+    text-align: center;
+    border-style: solid;
+
+}
+
+
+body{
+    background-color: rgb(205, 171, 98);
+}
+ 
+p {
+ text-align: left;
+    font-size: 20px;
+    font-family: Arial,;
+ 
+}
+
+img {
+    width: 500px;
+   display: flex;
+   justify-content: center;
+    
+}
+
+.boku{
+    display: flex;
+    justify-content: center;
+}
+
+.naruto {
+    display: flex;
+    justify-content: center;
+}
+
+.knb {
+    display: flex;
+    justify-content: center;
+}
+
+.voz {
+    display: flex;
+    justify-content: center;
+}
+.palavras {
+    display: flex;
+    justify-content: center;
+}
+
+    .your {
+        display: flex;
+        justify-content: center;  
+    }
+
+    .violet{
+        display: flex;
+        justify-content: center;  
+    }
+
+    .one {
+        display: flex;
+        justify-content: center; 
+    }
+    .boru{
+        display: flex;
+        justify-content: center; 
+    }
+
+
+ul{
+display: flex;
+justify-content: space-around;
+list-style-type: none;
+color: brown;
+}
